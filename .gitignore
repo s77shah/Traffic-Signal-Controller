@@ -16,3 +16,18 @@ simulation/qsim/work/
 *.pin
 *.xrf
 *.vcd
+
+*.bak
+*.qdf
+*.qws
+*.log
+*.htm
+*.html
+
+# simulation outputs
+simulation/qsim/*.sim.vwf
+simulation/qsim/*.vwf.vt
+simulation/qsim/transcript
+simulation/qsim/vwf_sim_transcript
+simulation/qsim/*.vo
+simulation/qsim/*.sft
