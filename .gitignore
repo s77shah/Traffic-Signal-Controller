@@ -17,6 +17,7 @@ simulation/qsim/work/
 *.xrf
 *.vcd
 
+*.vwf
 *.bak
 *.qdf
 *.qws
